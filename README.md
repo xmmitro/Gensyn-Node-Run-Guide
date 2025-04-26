@@ -1,4 +1,4 @@
-# 🚀 Gensyn Node Setup Guide
+# 🚀 Gensyn Node Setup Guide by 0xSumitro
 
 Welcome to the ultimate guide for running a **Gensyn node** on a VPS or cloud GPU! This step-by-step tutorial will help you set up, run, and troubleshoot your node to contribute to the decentralized AI compute network. Whether you're a beginner or a pro, this guide has you covered. Let's dive in! 🌟
 
@@ -6,14 +6,14 @@ Welcome to the ultimate guide for running a **Gensyn node** on a VPS or cloud GP
 
 ## 📋 Table of Contents
 
-1. **[System Requirements](#system-requirements)**  
-2. **[Installation](#installation)**   
-3. **[Running the Node](#running-the-node)**   
-4. **[Backing Up Your `swarm.pem` File](#backing-up-your-swarmpem-file)**  
-5. **[Troubleshooting Common Errors](#troubleshooting-common-errors)**  
-   5.1 [PS1: unbound variable error](#1-ps1-unbound-variable-error)  
-   5.2 [P2P Daemon Error](#2-p2p-daemon-error)  
-   5.3 [Line 101 / 121: open: command not found](#3-line-101--121-open-command-not-found)
+1. **[System Requirements](#%EF%B8%8F-system-requirements)**  
+2. **[Installation](#-installation)**   
+3. **[Running the Node](-#-running-the-node)**   
+4. **[Backing Up Your `swarm.pem` File](-#-backing-up-your-swarmpem-file)**  
+5. **[Troubleshooting Common Errors](#%EF%B8%8F-troubleshooting-common-errors)**  
+   5.1 [PS1: unbound variable error](#1%EF%B8%8F%E2%83%A3-ps1-unbound-variable-error)  
+   5.2 [P2P Daemon Error](#2%EF%B8%8F%E2%83%A3-p2p-daemon-error)  
+   5.3 [Line 101 / 121: open: command not found](#3%EF%B8%8F%E2%83%A3-line-101--121-open-command-not-found)
 ---
 
 ## 🖥️ System Requirements
