@@ -8,8 +8,8 @@ Welcome to the ultimate guide for running a **Gensyn node** on a VPS or cloud GP
 
 1. **[System Requirements](#%EF%B8%8F-system-requirements)**  
 2. **[Installation](#-installation)**   
-3. **[Running the Node](-#-running-the-node)**   
-4. **[Backing Up Your `swarm.pem` File](-#-backing-up-your-swarmpem-file)**  
+3. **[Running the Node](#-running-the-node)**   
+4. **[Backing Up Your `swarm.pem` File](#-backing-up-your-swarmpem-file)**  
 5. **[Troubleshooting Common Errors](#%EF%B8%8F-troubleshooting-common-errors)**  
    5.1 [PS1: unbound variable error](#1%EF%B8%8F%E2%83%A3-ps1-unbound-variable-error)  
    5.2 [P2P Daemon Error](#2%EF%B8%8F%E2%83%A3-p2p-daemon-error)  
