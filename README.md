@@ -144,7 +144,7 @@ Here are solutions to common errors you might encounter, additional scenarios ba
 Solution:
 Modify the .bashrc file to handle the unbound variable:
 ```bash
-sed -i '/$$  -z "\$PS1"  $$ && return/i : "${PS1:=}"' /root/.bashrc
+sed -i '/\[ -z "\$PS1" \] && return/i : "${PS1:=}"' /root/.bashrc
 ```
 Restart the node:
 ```bash
