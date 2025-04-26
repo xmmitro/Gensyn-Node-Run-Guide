@@ -37,7 +37,7 @@ Follow these steps to set up your environment. All commands assume you're using 
 
 ### 🌟 Step 1: Update System and Install `sudo` (Cloud GPUs Only)
 ```bash
-sudo apt update && sudo apt install -y sudo
+apt update && apt install -y sudo
 ```
 
 ### 🌟 Step 2: Install Core Dependencies
